@@ -1,0 +1,7 @@
+[
+  { "q": "What is the name of Gojo Satoru's Domain Expansion?", "options": ["Malevolent Shrine", "Unlimited Void", "Chimera Shadow Garden", "Self-Embodiment of Perfection"], "answer": 1, "explain": "Unlimited Void traps the target in infinite information." },
+  { "q": "Who is known as the King of Curses?", "options": ["Mahito", "Jogo", "Ryomen Sukuna", "Kenjaku"], "answer": 2 },
+  { "q": "Who swallowed Sukuna's finger to save his friends?", "options": ["Megumi Fushiguro", "Yuji Itadori", "Nobara Kugisaki", "Yuta Okkotsu"], "answer": 1 },
+  { "q": "Megumi Fushiguro uses which cursed technique?", "options": ["Ratio Technique", "Straw Doll", "Ten Shadows Technique", "Boogie Woogie"], "answer": 2 },
+  { "q": "Which sorcerer uses the Ratio Technique?", "options": ["Kento Nanami", "Aoi Todo", "Toji Fushiguro", "Kinji Hakari"], "answer": 0 }
+]
